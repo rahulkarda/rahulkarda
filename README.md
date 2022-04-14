@@ -12,13 +12,12 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
 </a>
 
 <a href="https://github.com/rahulkarda/NFT-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=https://github.com/rahulkarda/NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 <a href="https://github.com/rahulkarda/Wave-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=https://github.com/rahulkarda/Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 
 # Technologies & Tools 🔧
