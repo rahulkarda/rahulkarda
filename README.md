@@ -11,13 +11,13 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
 </a>
 
-<a href="https://github.com/rahulkarda/NFT-Portal-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/rahulkarda/NFT-Portal-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rahulkarda/NFT-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=https://github.com/rahulkarda/NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/rahulkarda/Wave-Portal-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/rahulkarda/Wave-Portal-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rahulkarda/Wave-Portal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=https://github.com/rahulkarda/Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
