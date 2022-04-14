@@ -34,7 +34,7 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
 
 ## Blog & Writing &#x270d; 
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda) and [DEV.to](https://dev.to/rahulkarda).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
 <!--
 A sample of my recent articles:
 
