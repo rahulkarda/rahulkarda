@@ -1,6 +1,6 @@
 [![Header](https://github.com/rahulkarda/rahulkarda/blob/main/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
 
-# Hello Folks! 👋
+# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30px">
 My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 # GitHub Stats 📈
