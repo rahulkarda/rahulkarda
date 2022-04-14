@@ -3,8 +3,11 @@
 # Hello Folks! 👋
 My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science.
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkarda&show_icons=true&theme=radical)
+# GitHub Stats 📈
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&show_icons=true&theme=radical)
 
+# Skills
+![](https://img.shields.io/badge/<Code>-<JavasSript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
 
 - 👋 Hi, I’m Rahul Karda
 - 👀 I’m interested in Full Stack Web Development and other skills
