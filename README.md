@@ -3,6 +3,19 @@
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30px">
 My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+# Technologies & Tools 🔧
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=brightgreen)
+
 # GitHub Stats 📈
 <a href="https://github.com/rahulkarda/rahulkarda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -17,21 +30,21 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
 
 <a href="https://github.com/rahulkarda/Wave-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+</a>
 
+## Blog & Writing &#x270d; 
 
-# Technologies & Tools 🔧
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=brightgreen)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda) and [DEV.to](https://dev.to/rahulkarda).
+
+A sample of my recent articles:
+
+<!-- BLOG-POST-LIST:START -->
+- [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
+- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
+- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
+- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
+<!-- BLOG-POST-LIST:END -->
+
 
 <!-- links to social media icons -->
 
@@ -54,11 +67,12 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
 [3]: https://www.linkedin.com/in/rahul-karda-314768179/
 
 
-
+<!-- default README.md -->
+<!--
 - 👋 Hi, I’m Rahul Karda
 - 👀 I’m interested in Full Stack Web Development and other skills
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different web dev projects
 - 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
-
+-->
 
