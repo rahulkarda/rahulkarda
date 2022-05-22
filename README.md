@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://dev.to/rahulkarda" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cdf998&style=plastic&logo=dev.to&logo-color=white"/>
   </a>
   <a href="https://rahulkarda-resume.netlify.app" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
