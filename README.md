@@ -1,20 +1,134 @@
 [![Header](https://github.com/rahulkarda/rahulkarda/blob/main/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
 
+<p align="center">
+  <a href="https://rahulkarda.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahulkarda2002/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/rahulkarda2002" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://dev.to/rahulkarda" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://rahulkarda-resume.netlify.app" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
+
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30px">
-My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering.
+
+See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
+You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+# Projects ⚙️
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">NFT Portal</h3>
+        <br />
+        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
+            <img src="images/gif1.gif" width="100%" alt="NFT App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Wave Portal</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  alt="Wave Portal"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://waveatrahul.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio App</h3>
+      <br />
+        <a target="_blank" href="https://rahulkarda.netlify.app">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://rahulkarda.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA Astronomy Picture of the Day</h3>
+        <br />
+        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
+          <img src="images/gif3.gif" width="100%" alt="NASA Astronomy Picture of the Day"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://apodbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 10,000 different images, pick a date to get the NASA picture of the day for that date!</p>
+    </td>
+  </tr>
+</table>
+
 
 # Technologies & Tools 🔧
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+<br>
 
 # GitHub Stats 📈
 <a href="https://github.com/rahulkarda/rahulkarda">
@@ -31,6 +145,7 @@ My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in 
 <a href="https://github.com/rahulkarda/Wave-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br>
 
 ## Blog & Writing &#x270d; 
 
