@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://rahulkarda.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=f&style=plastic&logo=realm&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rahulkarda2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
