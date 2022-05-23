@@ -51,7 +51,7 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
       <h3 align="center">Wave Portal</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.png" width="100%"  alt="Wave Portal"/>
+            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
         </a>
         <br />
         <p align="center">
