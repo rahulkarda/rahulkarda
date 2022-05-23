@@ -33,11 +33,11 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
       <h3 align="center">NFT Portal</h3>
         <br />
         <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.png" width="100%" alt="NFT App"/>
+            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
-          
+          <br>
   <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -72,10 +72,11 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
       <h3 align="center">Portfolio App</h3>
       <br />
         <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
+          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
+          <br>
   <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -89,11 +90,11 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
       <h3 align="center">NASA Astronomy Picture of the Day</h3>
         <br />
         <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
-          <img src="images/nasaapod.png" width="100%" alt="NASA Astronomy Picture of the Day"/>
+          <img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br />
         <p align="center">
-          
+          <br>
   <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
