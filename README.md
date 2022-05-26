@@ -102,7 +102,7 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 10,000 different images, pick a date to get the NASA picture of the day for that date!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
     </td>
   </tr>
 </table>
