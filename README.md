@@ -185,6 +185,21 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <a href="https://github.com/rahulkarda/Wave-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/rahulkarda/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rahulkarda/NASA-APOD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rahulkarda/Web-Postman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/rahulkarda/IP-Address_Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <br>
 
 ## Blog & Writing &#x270d; 
