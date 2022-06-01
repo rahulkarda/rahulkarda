@@ -18,7 +18,7 @@
   </a>
 </p>
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30px">
+# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="40">
 My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering.
 
 See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
