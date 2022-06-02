@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/rahulkarda2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d19014&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://dev.to/rahulkarda" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="40">
+# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
 My name is Rahul Karda and I'm a Fullstack Developer. I'm from India, living in Bhopal and currently studying Computer Science. I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering.
 
 See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
