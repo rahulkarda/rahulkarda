@@ -33,15 +33,15 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning React,NextJS
+🌱 I’m currently learning React, NextJS
 
-👯 I’m looking to collaborate on a project/app
+👯 I’m looking to collaborate on different projects
 
 👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
 
 📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
 
-💬 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about React, NextJS, NodeJS, and APIs
 
 📫You can reach me at rahulkarda2002@gmail.com
 
@@ -203,7 +203,7 @@ website -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
 </a>
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats" width="79%" height="350" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats" width="79%" />
 </a> 
 <br>
 <a href="https://github.com/rahulkarda/NFT-Portal">
