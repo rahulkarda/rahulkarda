@@ -201,13 +201,14 @@ website -->
 </a>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
 </a>
 <br><br>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
 </a>
+<br><br>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats"/>
@@ -220,28 +221,28 @@ website -->
 <br><br>
 
 <a href="https://github.com/rahulkarda/NFT-Portal">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/rahulkarda/Wave-Portal">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Wave-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br><br>
+
 <a href="https://github.com/rahulkarda/Portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br><br><br><br>
+
 <a href="https://github.com/rahulkarda/NASA-APOD">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NASA-APOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br><br><br><br>
+
 <a href="https://github.com/rahulkarda/Web-Postman">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=Web-Postman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 <a href="https://github.com/rahulkarda/IP-Address_Tracker">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br><br><br><br><br><br>
+<br><br>
 
 ## Blog & Writing &#x270d; 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
