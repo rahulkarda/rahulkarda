@@ -20,8 +20,9 @@
 
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
-  <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
+ <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ 
  <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
   
   I'm from India, living in Bhopal and currently studying Computer Science.
@@ -247,6 +248,27 @@ website -->
 ## Blog & Writing &#x270d; 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
 
+## Extras 📝
+  <details>
+  <summary>Click to expand!</summary>
+  <br>
+    <p>
+<a href="https://github.com/rahulkarda?tab=followers">
+    <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=NigamAwantika">
+    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
+  </a>
+ </p>
+ <br>
+  <p>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15" />
+  </p>
+  <br>
+ <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
+</details>
+
+  
 <!--
 A sample of my recent articles:
 
