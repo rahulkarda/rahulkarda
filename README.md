@@ -256,8 +256,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/rahulkarda?tab=followers">
     <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=NigamAwantika">
-    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
+  <a href="https://twitter.com/intent/follow?screen_name=RahulKarda">
+    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Twitter Followers"/>
   </a>
  </p>
  <br>
