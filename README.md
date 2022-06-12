@@ -116,7 +116,7 @@ website -->
       <h3 align="center">NASA Astronomy Picture of the Day</h3>
         <br />
         <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
-          <img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+          <img src="images/apodbyrahul.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
         </a>
         <br />
         <p align="center">
