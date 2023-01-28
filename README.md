@@ -34,7 +34,7 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning React, NextJS
+🌱 I’m currently learning DevOps
 
 👯 I’m looking to collaborate on different projects
 
