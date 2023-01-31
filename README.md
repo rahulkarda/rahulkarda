@@ -76,7 +76,7 @@ website -->
     <td width="50%" valign="top">
       <h3 align="center">Wave Portal</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://waveatrahul.netlify.app/">
             <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
         </a>
         <br />
