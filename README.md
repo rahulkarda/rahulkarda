@@ -38,7 +38,7 @@ website -->
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+👨‍💻 All of my projects are available at [my website](https://rahulkarda.me)
 
 📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
 
@@ -302,7 +302,7 @@ A sample of my recent articles:
 
 [1]: https://twitter.com/rahulkarda2002
 [2]: https://github.com/rahulkarda
-[3]: https://www.linkedin.com/in/rahul-karda-314768179/
+[3]: https://www.linkedin.com/in/rahulkarda/
 
 
 <!-- default README.md -->
