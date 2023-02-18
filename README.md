@@ -13,7 +13,7 @@
   <a href="https://dev.to/rahulkarda" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
   </a>
-  <a href="resume.pdf" target="_blank" download="Resume.pdf">
+  <a href="resume.pdf" target="_blank" download="resume.pdf">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
