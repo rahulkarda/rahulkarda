@@ -40,7 +40,7 @@ website -->
 
 👨‍💻 All of my projects are available at [my website](https://rahulkarda.me)
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+📝 I actively post on [LinkedIn](https://linkedin.com/in/rahulkarda)
 
 👀 Ask me about React, NextJS, NodeJS, and APIs
 
